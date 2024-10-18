@@ -1,2 +1,2 @@
 # LaravelCrud
-Crud básico utilizando Laravel 11
+Crud básico utilizando Laravel com SoftDelete
